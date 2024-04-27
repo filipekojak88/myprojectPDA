@@ -8,13 +8,19 @@ You can find out more about writing in MarkDown [in GitHub's Documentation](http
 
 In this project an analysis is completed using the data from Palmer Penguins Dataset.
 
-The Palmer Penguins dataset is like a treasure trove of information about penguins living near Antarctica. It helps scientists understand how male and female penguins differ in what they eat and how they hunt for food, especially when there's less sea ice around. By studying their diets and body sizes, researchers can figure out why males and females might prefer different hunting spots [[1]](#1) [[2]](#2).    
-This dataset is super handy because it's not just for scientists—it's also great for teaching and learning about data analysis. It's like replacing an old, not-so-interesting dataset with something way cooler and more relevant. Plus, it's been downloaded tons of times, showing how popular and useful it is for anyone wanting to explore the world of data science [[3]](#3).      
-The dataset contains three difference species:
+The Palmer Penguins dataset is like a treasure trove of information about penguins living near Antarctica. It helps scientists understand how male and female penguins differ in what they eat and how they hunt for food, especially when there's less sea ice around. By studying their diets and body sizes, researchers can figure out why males and females might prefer different hunting spots [[1]](#1) [[2]](#2).      
+
+This dataset is super handy because it's not just for scientists—it's also great for teaching and learning about data analysis. It's like replacing an old, not-so-interesting dataset with something way cooler and more relevant. Plus, it's been downloaded tons of times, showing how popular and useful it is for anyone wanting to explore the world of data science [[3]](#3).     
+
+This data was collected near the Palmer Station in Antarctica of penguins on three different islands: Dream, Torgersen and Biscoe.      
+
+![Antarctica](images/palmer_station.png)
+*Palmer Station in Antarctica* [[4]](4)     
+
+The dataset contains three difference penguins species:     
 
 ![Penguins](images/penguins.png)
-*Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)* [[4]](4) [[5]](5) [[6]](6)
-
+*Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)*  [[5]](5) [[6]](6) [[7]](7)
 
 
 
@@ -61,8 +67,10 @@ About me...
 
 <a id="3">[3]</a> Palmer Penguins (2021) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/690/palmer+penguins-3 (Accessed: 26 April 2024). 
 
-<a id="4">[4]</a> Shiva, A. (2016) Chinstrap penguin (Pygoscelis antarctica), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:South_Shetland-2016-Deception_Island–Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg. 
+<a id="4">[4]</a> Google Maps (2024) Palmer Station, Antarctica, Type of Map: Terrain, Scale: 500km. Available at: https://www.google.com/maps/place/Palmer+Station,+Antarctica/@-60.0342296,-67.7558616,3.36z/data=!4m6!3m5!1s0xbc7f6b08d86317c9:0xe343fed7cb6c11e3!8m2!3d-64.7744286!4d-64.053186!16s%2Fg%2F11l2p50kmk?entry=ttu. 
 
-<a id="5">[5]</a> Shiva, A. (2016) Gentoo penguin (Pygoscelis papua), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula–Gentoo_penguin_(Pygoscelis_papua)_03.jpg. 
+<a id="5">[5]</a> Shiva, A. (2016) Chinstrap penguin (Pygoscelis antarctica), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:South_Shetland-2016-Deception_Island–Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg. 
 
-<a id="6">[6]</a> Shiva, A. (2016) Adélie penguin (Pygoscelis adeliae), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:Hope_Bay-2016-Trinity_Peninsula–Adélie_penguin_(Pygoscelis_adeliae)_04.jpg. 
+<a id="6">[6]</a> Shiva, A. (2016) Gentoo penguin (Pygoscelis papua), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula–Gentoo_penguin_(Pygoscelis_papua)_03.jpg. 
+
+<a id="7">[7]</a> Shiva, A. (2016) Adélie penguin (Pygoscelis adeliae), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:Hope_Bay-2016-Trinity_Peninsula–Adélie_penguin_(Pygoscelis_adeliae)_04.jpg. 
