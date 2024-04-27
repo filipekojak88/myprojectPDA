@@ -13,7 +13,8 @@ This dataset is super handy because it's not just for scientists—it's also gre
 The dataset contains three difference species:
 
 ![Penguins](images/penguins.png)
-*<span style="font-size:0.5em;">Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)</span>* [[4]](4) [[5]](5) [[6]](6)
+<span style="font-size:0.5em; font-style: italic;">Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)</span>
+[[4]](4) [[5]](5) [[6]](6)
 
 
 
