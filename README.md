@@ -14,7 +14,7 @@ This dataset is super handy because it's not just for scientists—it's also gre
 
 This data was collected near the Palmer Station in Antarctica of penguins on three different islands: Dream, Torgersen and Biscoe.      
 
-![Antarctica](images/p_station.png)
+![Antarctica](images/p_station.png)     
 *Palmer Station in Antarctica* [[4]](4)     
 
 The dataset contains three difference penguins species:     
