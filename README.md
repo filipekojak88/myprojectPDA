@@ -19,7 +19,7 @@ This data was collected near the Palmer Station in Antarctica from penguins:
 ![Antarctica](images/p_station.png)     
 *Palmer Station in Antarctica* [[6]](#6)     
 
-- From three difference species: Chinstrap, Gentoo and Adélie.    
+- from three difference species: Chinstrap, Gentoo and Adélie.    
 
 ![Penguins](images/penguins.png)    
 *Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)*  [[7]](#7) [[8]](#8) [[9]](#9)       
@@ -31,20 +31,15 @@ This data was collected near the Palmer Station in Antarctica from penguins:
 
 The Jupyter notebook [penguins.ipynb](jupyter.ipynb) displays the data analysis completed using the Palmer Penguins dataset.         
 The penguin csv file used for this analysis was from the [Seaborn](https://github.com/mwaskom/seaborn/blob/master/README.md)'s repository as recommended on the Assessment Instructions for the module of Principles of Data Analytics [[11]](#11).     
-        
+
 ## Use of this project
-
-Why this project is useful...
-
+        
+This project is useful for other users as a source of examples of data analysis that can be completed using Python, and direct them on some conclusions that you can draw from the data.
+Perhaps, the perspective adopted in this project can be also adapted by other students to investigate different datasets.
+Nonetheless, this project reflects the author's understanding and knowledge from the Python programming skills learned so far in this course. Therefore, any contribution or ideas to improve this project will be always welcomed.     
 
 ## Get Started 
 
-I sed [openincolab.com](https://openincolab.com) to generate the following clickable link.
-It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
-
-<a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
 
 How users can get started with the project...
@@ -57,8 +52,12 @@ Where users can get help with your project...
 
 ## Contribute
 
-Who maintains and contributes to the project...
+I sed [openincolab.com](https://openincolab.com) to generate the following clickable link.
+It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
 
+<a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Author
 
