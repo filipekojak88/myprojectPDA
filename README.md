@@ -29,30 +29,36 @@ This data was collected near the Palmer Station in Antarctica from penguins:
 ![Measurements](images/measurement.png)     
 *Penguins measurements: bill length, bill depth, flipper length* [[10]](#10)    
 
-The Jupyter notebook [penguins.ipynb](jupyter.ipynb) displays the data analysis completed using the Palmer Penguins dataset.         
+The Jupyter notebook [penguins.ipynb](penguins.ipynb) displays the data analysis completed using the Palmer Penguins dataset.         
 The penguin csv file used for this analysis was from the [Seaborn](https://github.com/mwaskom/seaborn/blob/master/README.md)'s repository as recommended on the Assessment Instructions for the module of Principles of Data Analytics [[11]](#11).     
 
 ## Use of this project
-        
+
 This project is useful for other users as a source of examples of data analysis that can be completed using Python, and direct them on some conclusions that you can draw from the data.
 Perhaps, the perspective adopted in this project can be also adapted by other students to investigate different datasets.
 Nonetheless, this project reflects the author's understanding and knowledge from the Python programming skills learned so far in this course. Therefore, any contribution or ideas to improve this project will be always welcomed.     
 
 ## Get Started 
 
-
-
-How users can get started with the project...
-
+To get started with this project click on this link '[penguins.ipynb](penguins.ipynb)' and navigate through the different sections of this Jupyter from the beginning to the end. But you if you prefer to go to a specific section, then here you can get a quick overview of what is covered:     
+- Loading the Database: This section displays the different imported Python modules used in the analysis of the penguins dataset and the script used to load the data set from the Seaborn repository in GitHub.        
+- <ins>Exploring the Dataset</ins>: A quick look into the datase to understand the columns and some of the first and last rows of the dataset.
+- <ins>Types of Variables to Model the Data Set</ins>: Here the author checks the types of variables used in the dataset and what type can be used to model it.
+- <ins>Categorical Data and Bar Chart</ins>: An analysis is provided into one of the categorical variables and the different categories available within that variable, using a bar chart to ilustrate that.
+- <ins>Continuous Numerical Data and Histogram</ins>: A summary statistic is perfomed to all continuous numerical variables of the dataset and a deep dive is completed into one of the variables, ending with a histrogram and more details of this analysis.
+- <ins>Correlation between Penguins' bill length and flipper length</ins>: In this section, the author explores how two continuous variables of the dataset correlates to each other. A scatterplot is used and concepts as best fit line and correlation coeficient are applied to support this analysis.
+- <ins>Conclusion</ins>: A summary and results of the author's analysis and investigation carried out on the Palmer Penguins dataset. 
+- <ins>Opportunities for further investigation</ins>: Here, the author suggests other areas that users can approach to further analyse the dataset.
+- <ins>References</ins>: Full list of references, so you can refer to for more info.
 
 ## Get Help
 
-Where users can get help with your project...
-
+If questions are raised while checking this project, you can contact me via github, and I will be happy to provide more information.
+I have also provided the list of references used in this project at the end of both, this README.md file and the Jupyter notebook penguins.ipynb, which can provide further insights into the structure and fundamentals used to build this project.        
 
 ## Contribute
 
-I sed [openincolab.com](https://openincolab.com) to generate the following clickable link.
+I sed [openincolab.com](https://openincolab.com) to generate the following clickable link.      
 It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
 
 <a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
@@ -61,15 +67,16 @@ It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.googl
 
 ## Author
 
-About me...
+I am current a Quality Engieer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career throught this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
+If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](https://www.linkedin.com/in/filipe-carvalho-8146232a/)      
 
-## References:
+## References:      
 
-<a id="1">[1]</a> https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+<a id="1">[1]</a> https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes     
 
-<a id="2">[2]</a> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+<a id="2">[2]</a> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax        
 
-<a id="3">[3]</a> Horst, et al. (2022) "Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson's Irises", The R Journal. Available at: https://journal.r-project.org/articles/RJ-2022-020
+<a id="3">[3]</a> Horst, et al. (2022) "Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson's Irises", The R Journal. Available at: https://journal.r-project.org/articles/RJ-2022-020        
 
 <a id="4">[4]</a> Gorman, et al. (2014) Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis). PLOS ONE 9(3): e90081. https://doi.org/10.1371/journal.pone.0090081
 
