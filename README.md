@@ -12,17 +12,21 @@ The Palmer Penguins dataset is like a treasure trove of information about pengui
 
 This dataset is super handy because it's not just for scientists—it's also great for teaching and learning about data analysis. It's like replacing an old, not-so-interesting dataset with something way cooler and more relevant. Plus, it's been downloaded tons of times, showing how popular and useful it is for anyone wanting to explore the world of data science [[3]](#3).     
 
-This data was collected near the Palmer Station in Antarctica of penguins on three different islands: Dream, Torgersen and Biscoe.      
+This data was collected near the Palmer Station in Antarctica from penguins:
+- on three different islands: Dream, Torgersen and Biscoe.      
 
 ![Antarctica](images/p_station.png)     
 *Palmer Station in Antarctica* [[4]](4)     
 
-The dataset contains three difference penguins species:     
+- Of three difference species: Chinstrap, Gentoo and Adélie.    
 
-![Penguins](images/penguins.png)
-*Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)*  [[5]](5) [[6]](6) [[7]](7)
+![Penguins](images/penguins.png)    
+*Penguins species: Chinstrap (Pygoscelis antarctica), Gentoo (Pygoscelis papua), and Adélie (Pygoscelis adeliae)*  [[5]](5) [[6]](6) [[7]](7)       
 
+4 measurements were taken from each penguin: body mass (g), bill length (mm), bill depth (mm), and flipper length (mm).      
 
+![Measurements](images/measurement.png)     
+*Penguins measurements: bill length, bill depth, flipper length*        
 
 
 
