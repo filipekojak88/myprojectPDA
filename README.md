@@ -26,7 +26,7 @@ This data was collected near the Palmer Station in Antarctica from penguins:
 4 measurements were taken from each penguin: body mass (g), bill length (mm), bill depth (mm), and flipper length (mm).      
 
 ![Measurements](images/measurement.png)     
-*Penguins measurements: bill length, bill depth, flipper length*        
+*Penguins measurements: bill length, bill depth, flipper length* [[8]](#8)   
 
 
 
@@ -78,3 +78,5 @@ About me...
 <a id="6">[6]</a> Shiva, A. (2016) Gentoo penguin (Pygoscelis papua), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula–Gentoo_penguin_(Pygoscelis_papua)_03.jpg. 
 
 <a id="7">[7]</a> Shiva, A. (2016) Adélie penguin (Pygoscelis adeliae), Wikipedia. Available at: https://en.wikipedia.org/wiki/File:Hope_Bay-2016-Trinity_Peninsula–Adélie_penguin_(Pygoscelis_adeliae)_04.jpg. 
+
+<a id="8">[8]</a> Kakati, M. (2020) Know About The Palmer Penguins!, Tableau. Available at: https://public.tableau.com/views/PalmerPenguin_makeovermonday/Dashboard1?%3Aembed=y&%3AshowVizHome=n&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true&%3Alanguage=en&%3Amobile=true&%3AapiID=host0. 
