@@ -123,3 +123,21 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 <a id="25">[25]</a> Horvath, R. (2023) Using pandas and python to explore your dataset, Real Python. Available at: https://realpython.com/pandas-python-explore-dataset/
 
 <a id="26">[26]</a> Kaliyadan F, Kulkarni V. (2019) Types of Variables, Descriptive Statistics, and Sample Size. Indian Dermatol Online J. Available at: https://doi.org/10.4103%2Fidoj.IDOJ_468_18 
+
+<a id="27">[27]</a> Rana, A. (2023) Bar charts vs Histograms: A complete guide, Venngage. Available at: https://venngage.com/blog/bar-charts-vs-histograms/
+
+<a id="28">[28]</a> Pandey, P. (2020) Five ways to use value_counts(), Kaggle. Available at: https://www.kaggle.com/code/parulpandey/five-ways-to-use-value-counts
+
+<a id="29">[29]</a> Board Infinity (2023) Groupby python function & how to use it!, Board Infinity. Available at: https://www.boardinfinity.com/blog/groupby-python-function/#:~:text=groupby%20size()&text=It%20gives%20back%20a%20pandas,of%20the%20len()%20method 
+
+<a id="30">[30]</a> Inzaugarat, M.E. (2023) Reshaping Data with pandas, RPubs. Available at: https://rpubs.com/datttrian/reshaping-data-with-pandas (Accessed: 29 April 2024). 
+
+<a id="31">[31]</a> Sekhar, R. (2021) Why pandas.dataframe.sum(axis=0) returns sum of values in each column where axis =0 represent rows?, Stack Overflow. Available at: https://stackoverflow.com/questions/61690632/why-pandas-dataframe-sumaxis-0-returns-sum-of-values-in-each-column-where-axis#:~:text=In%20pandas%2C%20axis%3D0%20represent,each%20columns%20and%20vice%2Dversa. (Accessed: 29 April 2024). 
+
+<a id="32">[32]</a> Python:Pandas: Dataframe: .sort_values() (2023) Codecademy. Available at: https://www.codecademy.com/resources/docs/pandas/dataframe/sortvalues (Accessed: 29 April 2024). 
+
+<a id="33">[33]</a> How to sort pandas DataFrame by one or multiple column (2023) Saturn Cloud Blog. Available at: https://saturncloud.io/blog/how-to-sort-pandas-dataframe-from-one-column/#:~:text=How%20to%20Sort%20Pandas%20DataFrame%20From%20One%20Column,of%20one%20or%20more%20columns. (Accessed: 29 April 2024). 
+
+<a id="34">[34]</a> Shane (no date) Shane Lynn. Available at: https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/ (Accessed: 29 April 2024).
+
+<a id="35">[35]</a> GeeksforGeeks (2023) Adding value labels on a Matplotlib Bar Chart, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/ (Accessed: 29 April 2024). 
