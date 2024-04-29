@@ -34,14 +34,14 @@ The penguin csv file used for this analysis was from the [Seaborn](https://githu
 
 ## Use of this project
 
-This project is useful for other users as a source of examples of data analysis that can be completed using Python, and direct them on some conclusions that you can draw from the data.
+This project is useful for other users as a source of examples of data analysis that can be completed using Python, and direct them on some conclusions that can be drawn from the data.
 Perhaps, the perspective adopted in this project can be also adapted by other students to investigate different datasets.
 Nonetheless, this project reflects the author's understanding and knowledge from the Python programming skills learned so far in this course. Therefore, any contribution or ideas to improve this project will be always welcomed.     
 
 ## Get Started 
 
-To get started with this project click on this link '[penguins.ipynb](penguins.ipynb)' and navigate through the different sections of this Jupyter from the beginning to the end. But you if you prefer to go to a specific section, then here you can get a quick overview of what is covered:     
-- Loading the Database: This section displays the different imported Python modules used in the analysis of the penguins dataset and the script used to load the data set from the Seaborn repository in GitHub.        
+To get started with this project click on this link '[penguins.ipynb](penguins.ipynb)' and navigate through the different sections of this Jupyter from the beginning to the end. But, if you prefer to go to a specific section, then here you can get a quick overview of what is covered:     
+- <ins>Loading the Database</ins>: This section displays the different imported Python modules used in the analysis of the penguins dataset and the script used to load the data set from the Seaborn repository in GitHub.        
 - <ins>Exploring the Dataset</ins>: A quick look into the datase to understand the columns and some of the first and last rows of the dataset.
 - <ins>Types of Variables to Model the Data Set</ins>: Here the author checks the types of variables used in the dataset and what type can be used to model it.
 - <ins>Categorical Data and Bar Chart</ins>: An analysis is provided into one of the categorical variables and the different categories available within that variable, using a bar chart to ilustrate that.
@@ -67,7 +67,7 @@ It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.googl
 
 ## Author
 
-I am current a Quality Engieer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career throught this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
+I am currently a Quality Engieer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career throught this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
 If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](https://www.linkedin.com/in/filipe-carvalho-8146232a/)      
 
 ## References:      
