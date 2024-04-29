@@ -97,3 +97,25 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 <a id="12">[12]</a> Waskom, M. (no date) Seaborn Data, GitHub. Available at: https://github.com/mwaskom/seaborn/blob/master/README.md (Accessed: 29 April 2024). 
 
 <a id="13">[13]</a> McLoughlin, I. (2024) Principle of Data Analytics - Assessment, GitHub. Available at: https://ianmcloughlin.github.io/2324_principles_of_data_analytics/.
+
+<a id="14">[14]</a> Horst, A. (no date) The Palmer Archipelago penguins. Available at: https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png (Accessed: 29 April 2024)
+
+<a id="15">[15]</a> Pandas (2024) NVIDIA Data Science Glossary. Available at: https://www.nvidia.com/en-us/glossary/pandas-python/#:~:text=Benefits%20of%20Pandas&text=Easy%20handling%20of%20missing%20data,DataFrames%20and%20higher%2Ddimensional%20objects (Accessed: 29 April 2024). 
+
+<a id="16">[16]</a> Parker, K. (2020) Data Analysis in python: Getting started with pandas, Medium. Available at: https://towardsdatascience.com/data-analysis-in-python-getting-started-with-pandas-8cbcc1500c83 
+
+<a id="17">[17]</a> Hunter, J. (2007) "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95. Available at: https://matplotlib.org/stable/users/explain/quick_start.html
+
+<a id="18">[18]</a> Numpy quickstart# (2008-2022) NumPy quickstart - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/user/quickstart.html (Accessed: 29 April 2024). 
+
+<a id="19">[19]</a> Pierian Training (2023) Working with scipy stats norm: A guide, Pierian Training. Available at: https://pieriantraining.com/working-with-scipy-stats-norm-a-guide/#:~:text=In%20Python%2C%20we%20can%20use,scale%20is%20the%20standard%20deviation 
+
+<a id="20">[20]</a> Abhi (2023) Exploring Seaborn: Part 1: Creating visualizations with scatter plots and line plots, Medium. Available at: https://codeabhi.medium.com/a-complete-guide-to-data-visualization-in-python-with-seaborn-part-11-58fefd99fed3#:~:text=To%20make%20a%20scatter%20plot,the%20plot%20will%20be%20blue
+
+<a id="21">[21]</a> PANDAS.READ_CSV# (2024) pandas.read_csv - pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html (Accessed: 29 April 2024). 
+
+<a id="22">[22]</a> Sullivan, J. (2018) Data cleaning with python and pandas: Detecting missing values, Medium. Available at: https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b (Accessed: 29 April 2024). 
+
+<a id="23">[23]</a> Pandas.dataframe.sample# (2024) pandas.DataFrame.sample - pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sample.html (Accessed: 29 April 2024). 
+
+<a id="24">[24]</a> Bhandari, P. (2023) Population vs. sample: Definitions, Differences & Examples, Scribbr. Available at: https://www.scribbr.com/methodology/population-vs-sample/#:~:text=Why%20are%20samples%20used%20in,effective%2C%20convenient%2C%20and%20manageable.
