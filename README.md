@@ -119,3 +119,7 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 <a id="23">[23]</a> Pandas.dataframe.sample# (2024) pandas.DataFrame.sample - pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sample.html (Accessed: 29 April 2024). 
 
 <a id="24">[24]</a> Bhandari, P. (2023) Population vs. sample: Definitions, Differences & Examples, Scribbr. Available at: https://www.scribbr.com/methodology/population-vs-sample/#:~:text=Why%20are%20samples%20used%20in,effective%2C%20convenient%2C%20and%20manageable.
+
+<a id="25">[25]</a> Horvath, R. (2023) Using pandas and python to explore your dataset, Real Python. Available at: https://realpython.com/pandas-python-explore-dataset/
+
+<a id="26">[26]</a> Kaliyadan F, Kulkarni V. (2019) Types of Variables, Descriptive Statistics, and Sample Size. Indian Dermatol Online J. Available at: https://doi.org/10.4103%2Fidoj.IDOJ_468_18 
