@@ -30,7 +30,7 @@ This data was collected near the Palmer Station in Antarctica from penguins:
 *Penguins measurements: bill length, bill depth, flipper length* [[10]](#10)    
 
 The Jupyter notebook [penguins.ipynb](penguins.ipynb) displays the data analysis completed using the Palmer Penguins dataset.         
-The penguin csv file used for this analysis was from the [Seaborn](https://github.com/mwaskom/seaborn/blob/master/README.md)'s repository as recommended on the Assessment Instructions for the module of Principles of Data Analytics [[11]](#11).     
+The [penguin csv file](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) used for this analysis was from the [Seaborn](https://github.com/mwaskom/seaborn)'s repository as recommended on the Assessment Instructions for the module of Principles of Data Analytics [[11]](#11) [[12]](#12) [[13]](#13).     
 
 ## Use of this project
 
@@ -72,15 +72,15 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 
 ## References:      
 
-<a id="1">[1]</a> https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes     
+<a id="1">[1]</a> About readmes (no date) GitHub Docs. Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes (Accessed: 29 April 2024).   
 
-<a id="2">[2]</a> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax        
+<a id="2">[2]</a> Basic writing and formatting syntax (no date) GitHub Docs. Available at: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax (Accessed: 29 April 2024).       
 
 <a id="3">[3]</a> Horst, et al. (2022) "Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson's Irises", The R Journal. Available at: https://journal.r-project.org/articles/RJ-2022-020        
 
 <a id="4">[4]</a> Gorman, et al. (2014) Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis). PLOS ONE 9(3): e90081. https://doi.org/10.1371/journal.pone.0090081
 
-<a id="5">[5]</a> Palmer Penguins (2021) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/690/palmer+penguins-3 (Accessed: 26 April 2024). 
+<a id="5">[5]</a> Palmer Penguins (2021) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/690/palmer+penguins-3
 
 <a id="6">[6]</a> Google Maps (2024) Palmer Station, Antarctica, Type of Map: Terrain, Scale: 500km. Available at: https://www.google.com/maps/place/Palmer+Station,+Antarctica/@-60.0342296,-67.7558616,3.36z/data=!4m6!3m5!1s0xbc7f6b08d86317c9:0xe343fed7cb6c11e3!8m2!3d-64.7744286!4d-64.053186!16s%2Fg%2F11l2p50kmk?entry=ttu. 
 
@@ -92,4 +92,8 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 
 <a id="10">[10]</a> Kakati, M. (2020) Know About The Palmer Penguins!, Tableau. Available at: https://public.tableau.com/views/PalmerPenguin_makeovermonday/Dashboard1?%3Aembed=y&%3AshowVizHome=n&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true&%3Alanguage=en&%3Amobile=true&%3AapiID=host0. 
 
-<a id="11">[11]</a> McLoughlin, I. (2024) Principle of Data Analytics - Assessment, GitHub. Available at: https://ianmcloughlin.github.io/2324_principles_of_data_analytics/ (Accessed: 28 April 2024). 
+<a id="11">[11]</a> Waskom, M. (2020) penguins.csv, GitHub. Available at: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
+
+<a id="12">[12]</a> Waskom, M. (no date) Seaborn Data, GitHub. Available at: https://github.com/mwaskom/seaborn/blob/master/README.md (Accessed: 29 April 2024). 
+
+<a id="13">[13]</a> McLoughlin, I. (2024) Principle of Data Analytics - Assessment, GitHub. Available at: https://ianmcloughlin.github.io/2324_principles_of_data_analytics/.
