@@ -141,3 +141,29 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 <a id="34">[34]</a> Shane (no date) Shane Lynn. Available at: https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/ (Accessed: 29 April 2024).
 
 <a id="35">[35]</a> GeeksforGeeks (2023) Adding value labels on a Matplotlib Bar Chart, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/ (Accessed: 29 April 2024). 
+
+<a id="36">[36]</a> How to calculate summary statistics# (2024) Pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html (Accessed: 29 April 2024). 
+
+<a id="37">[37]</a> Simplilearn (2023) Exploring descriptive statistics: Everything you need to know!: Simplilearn, Simplilearn.com. Available at: https://www.simplilearn.com/what-is-descriptive-statistics-article
+
+<a id="38">[38]</a> W3Schools (no date) Pandas dataframe describe() method. Available at: https://www.w3schools.com/python/pandas/ref_df_describe.asp#:~:text=The%20describe()%20method%20returns,The%20average%20(mean)%20value. (Accessed: 29 April 2024). 
+
+<a id="39">[39]</a> Pannell, R. (2023) Histogram: A comprehensive guide, LeanScape. Available at: https://leanscape.io/histogram-a-comprehensive-guide/
+
+<a id="40">[40]</a>  Nilimesh Halder, P. (2024) Exploring normal distribution: Statistical analysis and Data Interpretation, Medium. Available at: https://medium.com/@HalderNilimesh/exploring-normal-distribution-statistical-analysis-and-data-interpretation-c3bbd4be446d 
+
+<a id="41">[41]</a> GeeksforGeeks (2023b) Pandas dataframe.dropna() method, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/ 
+
+<a id="42">[42]</a> Numpy.histogram# (no date) numpy.histogram - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.histogram.html (Accessed: 29 April 2024). 
+
+<a id="43">[43]</a> Matplotlib.axis.xaxis.set_ticks_position# (no date) matplotlib.axis.XAxis.set_ticks_position - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.set_ticks_position.html (Accessed: 30 April 2024). 
+
+<a id="44">[44]</a> (No date) Chatgpt. Available at: https://chat.openai.com/ (Accessed: 30 April 2024).
+
+<a id="45">[45]</a> Normal fit from experimental data (2021) Stack Overflow. Available at: https://stackoverflow.com/questions/63556187/normal-fit-from-experimental-data
+
+<a id="46">[46]</a> Safarli, J. (2024) Normal distribution with python, Medium. Available at: https://medium.com/@c_safarli/normal-distribution-with-python-ddbfd1d066ad
+
+<a id="47">[47]</a> Renee, T. (2022) How to demarc the mean and median in a histplot in both python and R, Medium. Available at: https://medium.com/geekculture/how-to-demarc-the-mean-and-median-in-a-histplot-in-both-python-and-r-86a60c437e67 (Accessed: 30 April 2024). 
+
+<a id="48">[48]</a> Legend guide# (no date) Legend guide - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/users/explain/axes/legend_guide.html (Accessed: 30 April 2024).
