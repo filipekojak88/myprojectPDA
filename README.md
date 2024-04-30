@@ -2,8 +2,8 @@
 
 This repository contains a project completed for the module of Principles of Data Analytics in ATU with the lecturer Ian McLoughlin.    
 Throughout this project there were several Python scripts that were used in the penguins.ipynb's Jupyter notebook to highlight the different skills acquired during the course. The main goal of this project is to practice the learned skills and develop new ones as the project is threaded to form a coherent and concise analysis of the penguins dataset.
-This README has been written with [Github's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind [[1]](#1).     
-MarkDown was used in this README file and was based on [in GitHub's Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [[2]](#2).       
+This README has been written with [Github's documentation on README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind [[1]](#1).     
+MarkDown was used in this README file and was based on [GitHub's Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [[2]](#2).       
 
 ## About This Project
 
@@ -36,26 +36,25 @@ The [penguin csv file](https://raw.githubusercontent.com/mwaskom/seaborn-data/ma
 
 This project is useful for other users as a source of examples of data analysis that can be completed using Python, and direct them on some conclusions that can be drawn from the data.
 Perhaps, the perspective adopted in this project can be also adapted by other students to investigate different datasets.
-Nonetheless, this project reflects the author's understanding and knowledge from the Python programming skills learned so far in this course. Therefore, any contribution or ideas to improve this project will be always welcomed.     
+Nonetheless, this project reflects the author's understanding and knowledge from the Python programming skills learned so far in this course. Therefore, any contribution or ideas to improve this project will be welcomed.     
 
 ## Get Started 
 
 To get started with this project click on this link '[penguins.ipynb](penguins.ipynb)' and navigate through the different sections of this Jupyter from the beginning to the end. But, if you prefer to go to a specific section, then here you can get a quick overview of what is covered:     
-- <ins>Loading the Database</ins>: This section displays the different imported Python modules used in the analysis of the penguins dataset and the script used to load the data set from the Seaborn repository in GitHub.        
+- <ins>Loading the Database</ins>: This section displays the different imported Python modules used in the analysis of the penguins dataset and the script used to load the data set from the Seaborn's repository in GitHub.        
 - <ins>Exploring the Dataset</ins>: A quick look into the datase to understand the columns and some of the first and last rows of the dataset.
 - <ins>Types of Variables to Model the Dataset</ins>: Here the author checks the types of variables used in the dataset and what type can be used to model it.
-- <ins>Categorical Data and Bar Chart</ins>: An analysis is provided into one of the categorical variables and the different categories available within that variable, using a bar chart to ilustrate that.
+- <ins>Categorical Data and Bar Chart</ins>: An analysis is provided grouping two of the categorical variables and the different categories available within those variables, using a bar chart to ilustrate that.
 - <ins>Continuous Numerical Data and Histogram</ins>: A summary statistic is perfomed to all continuous numerical variables of the dataset and a deep dive is completed into one of the variables, ending with a histrogram and more details of this analysis.
 - <ins>Correlation between Two Variables from the Dataset</ins>: In this section, the author explores how two continuous variables of the dataset correlates to each other. A scatterplot is used and concepts as best fit line and correlation coeficient are applied to support this analysis.
 - <ins>Opportunities for further investigation</ins>: Here, the author suggests other areas that users can approach to further analyze the dataset.
 - <ins>Conclusion</ins>: A summary and results of the author's analysis and investigation that are carried out on the Palmer Penguins dataset. 
 
-Note: Full list of references is available at the end of this README file and the numbers provided across this README.md and in the penguins.ipynb are a direct links to their respective references in the reference section, so users can refer to for more info.
 
 ## Get Help
 
 If questions are raised while checking this project, you can contact me via github, and I will be happy to provide more information.
-I have also provided the list of references used in this project at the end of both, this README.md file and the Jupyter notebook penguins.ipynb, which can provide further insights into the structure and fundamentals used to build this project.        
+Full list of references is available at the end of this README file and the numbers provided across this README.md and the penguins.ipynb files are direct links to their respective references in the reference section, which can provide further insights into the structure and fundamentals used to build this project.        
 
 ## Contribute
 
@@ -68,7 +67,7 @@ It opens the [penguins.ipynb](penguins.ipynb) notebook in [Google Colab](https:/
 
 ## Author
 
-I am currently a Quality Engineer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career throught this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
+I am currently a Quality Engineer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career through this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
 If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](https://www.linkedin.com/in/filipe-carvalho-8146232a/)      
 
 ## References:      
