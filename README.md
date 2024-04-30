@@ -177,3 +177,21 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 <a id="52">[52]</a> Chen, J. (no date) Line of best fit: Definition, how it works, and calculation, Investopedia. Available at: https://www.investopedia.com/terms/l/line-of-best-fit.asp#:~:text=A%20line%20of%20best%20fit,plot%20of%20different%20data%20points. (Accessed: 30 April 2024). 
 
 <a id="53">[53]</a> Numpy.linspace# (no date) numpy.linspace - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.linspace.html (Accessed: 30 April 2024). 
+
+<a id="54">[54]</a> Seaborn.scatterplot# (no date) seaborn.scatterplot - seaborn 0.13.2 documentation. Available at: https://seaborn.pydata.org/generated/seaborn.scatterplot.html (Accessed: 30 April 2024). 
+
+<a id="55">[55]</a> Bobbitt, Z. (2023) Seaborn: How to use Hue parameter in Pairplot, Statology. Available at: https://www.statology.org/seaborn-pairplot-hue/
+
+<a id="56">[56]</a> Matplotlib.pyplot.plot# (no date) matplotlib.pyplot.plot - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html (Accessed: 30 April 2024). 
+
+<a id="57">[57]</a> VanderPlas, J. (no date) Python Data Science Handbook, O’Reilly Online Learning. Available at: https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html (Accessed: 30 April 2024). 
+
+<a id="58">[58]</a> Matplotlib.axes.axes.set_xlabel# (no date) matplotlib.axes.Axes.set_xlabel - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xlabel.html (Accessed: 30 April 2024). 
+
+<a id="59">[59]</a> Matplotlib.axes.axes.set_title# (no date) matplotlib.axes.Axes.set_title - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_title.html (Accessed: 30 April 2024).
+
+<a id="60">[60]</a> Matplotlib - axes limits (no date) Tutorialspoint. Available at: https://www.tutorialspoint.com/matplotlib/matplotlib_setting_limits.htm#:~:text=set_ylim()-,The%20ax.,a%20specific%20subplot%20or%20axis. (Accessed: 30 April 2024). 
+
+<a id="61">[61]</a> Numpy.corrcoef# (no date) numpy.corrcoef - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html (Accessed: 30 April 2024). 
+
+<a id="62">[62]</a> Frost, J. (2024) Interpreting correlation coefficients, Statistics By Jim. Available at: https://statisticsbyjim.com/basics/correlations/ (Accessed: 30 April 2024).
