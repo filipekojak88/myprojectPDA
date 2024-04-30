@@ -1,7 +1,7 @@
 # Repository: myprojectPDA      
 
 This repository contains a project completed for the module of Principles of Data Analytics in ATU with the lecturer Ian McLoughlin.    
-Throughout this project there were several Python scripts that were used in the penguins.ipynb's Jupyter notebook to highlight the different skills acquired during the course. The main goal of this project is to practice the learned skills and develop new ones as the project is threaded to form a coherent and consice analysis of the penguins dataset.
+Throughout this project there were several Python scripts that were used in the penguins.ipynb's Jupyter notebook to highlight the different skills acquired during the course. The main goal of this project is to practice the learned skills and develop new ones as the project is threaded to form a coherent and concise analysis of the penguins dataset.
 This README has been written with [Github's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind [[1]](#1).     
 MarkDown was used in this README file and was based on [in GitHub's Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [[2]](#2).       
 
@@ -13,7 +13,7 @@ The Palmer Penguins dataset is like a treasure trove of information about pengui
 
 This dataset is super handy because it's not just for scientists—it's also great for teaching and learning about data analysis. It's like replacing an old, not-so-interesting dataset with something way cooler and more relevant. Plus, it's been downloaded tons of times, showing how popular and useful it is for anyone wanting to explore the world of data science [[5]](#5).     
 
-This data was collected near the Palmer Station in Antarctica from penguins:        
+Data was collected near the Palmer Station in Antarctica from penguins:        
 - on three different islands: Dream, Torgersen and Biscoe.           
 
 ![Antarctica](images/p_station.png)     
@@ -29,7 +29,7 @@ This data was collected near the Palmer Station in Antarctica from penguins:
 ![Measurements](images/measurement.png)     
 *Penguins measurements: bill length, bill depth, flipper length* [[10]](#10)    
 
-The Jupyter notebook [penguins.ipynb](penguins.ipynb) displays the data analysis completed using the Palmer Penguins dataset.         
+The Jupyter notebook [penguins.ipynb](penguins.ipynb) displays data analysis completed using the Palmer Penguins dataset.         
 The [penguin csv file](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) used for this analysis was from the [Seaborn](https://github.com/mwaskom/seaborn)'s repository as recommended on the Assessment Instructions for the module of Principles of Data Analytics [[11]](#11) [[12]](#12) [[13]](#13).     
 
 ## Use of this project
@@ -47,8 +47,8 @@ To get started with this project click on this link '[penguins.ipynb](penguins.i
 - <ins>Categorical Data and Bar Chart</ins>: An analysis is provided into one of the categorical variables and the different categories available within that variable, using a bar chart to ilustrate that.
 - <ins>Continuous Numerical Data and Histogram</ins>: A summary statistic is perfomed to all continuous numerical variables of the dataset and a deep dive is completed into one of the variables, ending with a histrogram and more details of this analysis.
 - <ins>Correlation between Two Variables from the Dataset</ins>: In this section, the author explores how two continuous variables of the dataset correlates to each other. A scatterplot is used and concepts as best fit line and correlation coeficient are applied to support this analysis.
-- <ins>Opportunities for further investigation</ins>: Here, the author suggests other areas that users can approach to further analyse the dataset.
-- <ins>Conclusion</ins>: A summary and results of the author's analysis and investigation carried out on the Palmer Penguins dataset. 
+- <ins>Opportunities for further investigation</ins>: Here, the author suggests other areas that users can approach to further analyze the dataset.
+- <ins>Conclusion</ins>: A summary and results of the author's analysis and investigation that are carried out on the Palmer Penguins dataset. 
 
 Note: Full list of references is available at the end of this README file and the numbers provided across this README.md and in the penguins.ipynb are a direct links to their respective references in the reference section, so users can refer to for more info.
 
@@ -59,7 +59,7 @@ I have also provided the list of references used in this project at the end of b
 
 ## Contribute
 
-I sed [openincolab.com](https://openincolab.com) to generate the following clickable link.      
+I used [openincolab.com](https://openincolab.com) to generate the following clickable link.      
 It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
 
 <a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
@@ -68,7 +68,7 @@ It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.googl
 
 ## Author
 
-I am currently a Quality Engieer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career throught this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
+I am currently a Quality Engineer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career throught this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. 
 If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](https://www.linkedin.com/in/filipe-carvalho-8146232a/)      
 
 ## References:      
