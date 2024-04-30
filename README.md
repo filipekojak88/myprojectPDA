@@ -130,46 +130,50 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 
 <a id="29">[29]</a> Board Infinity (2023) Groupby python function & how to use it!, Board Infinity. Available at: https://www.boardinfinity.com/blog/groupby-python-function/#:~:text=groupby%20size()&text=It%20gives%20back%20a%20pandas,of%20the%20len()%20method 
 
-<a id="30">[30]</a> Inzaugarat, M.E. (2023) Reshaping Data with pandas, RPubs. Available at: https://rpubs.com/datttrian/reshaping-data-with-pandas (Accessed: 29 April 2024). 
+<a id="30">[30]</a> Pandas.dataframe.reset_index# (no date) pandas.DataFrame.reset_index - pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reset_index.html (Accessed: 30 April 2024). 
 
-<a id="31">[31]</a> Sekhar, R. (2021) Why pandas.dataframe.sum(axis=0) returns sum of values in each column where axis =0 represent rows?, Stack Overflow. Available at: https://stackoverflow.com/questions/61690632/why-pandas-dataframe-sumaxis-0-returns-sum-of-values-in-each-column-where-axis#:~:text=In%20pandas%2C%20axis%3D0%20represent,each%20columns%20and%20vice%2Dversa. (Accessed: 29 April 2024). 
+<a id="31">[31]</a> Inzaugarat, M.E. (2023) Reshaping Data with pandas, RPubs. Available at: https://rpubs.com/datttrian/reshaping-data-with-pandas (Accessed: 29 April 2024). 
 
-<a id="32">[32]</a> Python:Pandas: Dataframe: .sort_values() (2023) Codecademy. Available at: https://www.codecademy.com/resources/docs/pandas/dataframe/sortvalues (Accessed: 29 April 2024). 
+<a id="32">[32]</a> Sekhar, R. (2021) Why pandas.dataframe.sum(axis=0) returns sum of values in each column where axis =0 represent rows?, Stack Overflow. Available at: https://stackoverflow.com/questions/61690632/why-pandas-dataframe-sumaxis-0-returns-sum-of-values-in-each-column-where-axis#:~:text=In%20pandas%2C%20axis%3D0%20represent,each%20columns%20and%20vice%2Dversa. (Accessed: 29 April 2024). 
 
-<a id="33">[33]</a> How to sort pandas DataFrame by one or multiple column (2023) Saturn Cloud Blog. Available at: https://saturncloud.io/blog/how-to-sort-pandas-dataframe-from-one-column/#:~:text=How%20to%20Sort%20Pandas%20DataFrame%20From%20One%20Column,of%20one%20or%20more%20columns. (Accessed: 29 April 2024). 
+<a id="33">[33]</a> Python:Pandas: Dataframe: .sort_values() (2023) Codecademy. Available at: https://www.codecademy.com/resources/docs/pandas/dataframe/sortvalues (Accessed: 29 April 2024). 
 
-<a id="34">[34]</a> Shane (no date) Shane Lynn. Available at: https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/ (Accessed: 29 April 2024).
+<a id="34">[34]</a> How to sort pandas DataFrame by one or multiple column (2023) Saturn Cloud Blog. Available at: https://saturncloud.io/blog/how-to-sort-pandas-dataframe-from-one-column/#:~:text=How%20to%20Sort%20Pandas%20DataFrame%20From%20One%20Column,of%20one%20or%20more%20columns. (Accessed: 29 April 2024). 
 
-<a id="35">[35]</a> GeeksforGeeks (2023) Adding value labels on a Matplotlib Bar Chart, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/ (Accessed: 29 April 2024). 
+<a id="35">[35]</a> Shane (no date) Shane Lynn. Available at: https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/ (Accessed: 29 April 2024).
 
-<a id="36">[36]</a> How to calculate summary statistics# (2024) Pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html (Accessed: 29 April 2024). 
+<a id="36">[36]</a> GeeksforGeeks (2023) Adding value labels on a Matplotlib Bar Chart, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/ (Accessed: 29 April 2024). 
 
-<a id="37">[37]</a> Simplilearn (2023) Exploring descriptive statistics: Everything you need to know!: Simplilearn, Simplilearn.com. Available at: https://www.simplilearn.com/what-is-descriptive-statistics-article
+<a id="37">[37]</a> How to calculate summary statistics# (2024) Pandas 2.2.2 documentation. Available at: https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html (Accessed: 29 April 2024). 
 
-<a id="38">[38]</a> W3Schools (no date) Pandas dataframe describe() method. Available at: https://www.w3schools.com/python/pandas/ref_df_describe.asp#:~:text=The%20describe()%20method%20returns,The%20average%20(mean)%20value. (Accessed: 29 April 2024). 
+<a id="38">[38]</a> Simplilearn (2023) Exploring descriptive statistics: Everything you need to know!: Simplilearn, Simplilearn.com. Available at: https://www.simplilearn.com/what-is-descriptive-statistics-article
 
-<a id="39">[39]</a> Pannell, R. (2023) Histogram: A comprehensive guide, LeanScape. Available at: https://leanscape.io/histogram-a-comprehensive-guide/
+<a id="39">[39]</a> W3Schools (no date) Pandas dataframe describe() method. Available at: https://www.w3schools.com/python/pandas/ref_df_describe.asp#:~:text=The%20describe()%20method%20returns,The%20average%20(mean)%20value. (Accessed: 29 April 2024). 
 
-<a id="40">[40]</a>  Nilimesh Halder, P. (2024) Exploring normal distribution: Statistical analysis and Data Interpretation, Medium. Available at: https://medium.com/@HalderNilimesh/exploring-normal-distribution-statistical-analysis-and-data-interpretation-c3bbd4be446d 
+<a id="40">[40]</a> Pannell, R. (2023) Histogram: A comprehensive guide, LeanScape. Available at: https://leanscape.io/histogram-a-comprehensive-guide/
 
-<a id="41">[41]</a> GeeksforGeeks (2023b) Pandas dataframe.dropna() method, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/ 
+<a id="41">[41]</a>  Nilimesh Halder, P. (2024) Exploring normal distribution: Statistical analysis and Data Interpretation, Medium. Available at: https://medium.com/@HalderNilimesh/exploring-normal-distribution-statistical-analysis-and-data-interpretation-c3bbd4be446d 
 
-<a id="42">[42]</a> Numpy.histogram# (no date) numpy.histogram - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.histogram.html (Accessed: 29 April 2024). 
+<a id="42">[42]</a> GeeksforGeeks (2023b) Pandas dataframe.dropna() method, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/ 
 
-<a id="43">[43]</a> Matplotlib.axis.xaxis.set_ticks_position# (no date) matplotlib.axis.XAxis.set_ticks_position - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.set_ticks_position.html (Accessed: 30 April 2024). 
+<a id="43">[43]</a> Numpy.histogram# (no date) numpy.histogram - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.histogram.html (Accessed: 29 April 2024). 
 
-<a id="44">[44]</a> (No date) Chatgpt. Available at: https://chat.openai.com/ (Accessed: 30 April 2024).
+<a id="44">[44]</a> Matplotlib.axis.xaxis.set_ticks_position# (no date) matplotlib.axis.XAxis.set_ticks_position - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.set_ticks_position.html (Accessed: 30 April 2024). 
 
-<a id="45">[45]</a> Normal fit from experimental data (2021) Stack Overflow. Available at: https://stackoverflow.com/questions/63556187/normal-fit-from-experimental-data
+<a id="45">[45]</a> (No date) Chatgpt. Available at: https://chat.openai.com/ (Accessed: 30 April 2024).
 
-<a id="46">[46]</a> Safarli, J. (2024) Normal distribution with python, Medium. Available at: https://medium.com/@c_safarli/normal-distribution-with-python-ddbfd1d066ad
+<a id="46">[46]</a> Normal fit from experimental data (2021) Stack Overflow. Available at: https://stackoverflow.com/questions/63556187/normal-fit-from-experimental-data
 
-<a id="47">[47]</a> Renee, T. (2022) How to demarc the mean and median in a histplot in both python and R, Medium. Available at: https://medium.com/geekculture/how-to-demarc-the-mean-and-median-in-a-histplot-in-both-python-and-r-86a60c437e67 (Accessed: 30 April 2024). 
+<a id="47">[47]</a> Safarli, J. (2024) Normal distribution with python, Medium. Available at: https://medium.com/@c_safarli/normal-distribution-with-python-ddbfd1d066ad
 
-<a id="48">[48]</a> Legend guide# (no date) Legend guide - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/users/explain/axes/legend_guide.html (Accessed: 30 April 2024).
+<a id="48">[48]</a> Renee, T. (2022) How to demarc the mean and median in a histplot in both python and R, Medium. Available at: https://medium.com/geekculture/how-to-demarc-the-mean-and-median-in-a-histplot-in-both-python-and-r-86a60c437e67 (Accessed: 30 April 2024). 
 
-<a id="49">[49]</a> Correlation (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Correlation
+<a id="49">[49]</a> Legend guide# (no date) Legend guide - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/users/explain/axes/legend_guide.html (Accessed: 30 April 2024).
 
-<a id="50">[50]</a> Chen, J. (no date) Line of best fit: Definition, how it works, and calculation, Investopedia. Available at: https://www.investopedia.com/terms/l/line-of-best-fit.asp#:~:text=A%20line%20of%20best%20fit,plot%20of%20different%20data%20points. (Accessed: 30 April 2024). 
+<a id="50">[50]</a> Chen, J. (2024) Normal distribution: What it is, uses, and Formula, Investopedia. Available at: https://www.investopedia.com/terms/n/normaldistribution.asp#:~:text=The%20Bottom%20Line-,Normal%20distribution%2C%20also%20known%20as%20the%20Gaussian%20distribution%2C%20is%20a,defined%20by%20the%20standard%20deviation. (Accessed: 30 April 2024). 
 
-<a id="51">[51]</a> Numpy.linspace# (no date) numpy.linspace - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.linspace.html (Accessed: 30 April 2024). 
+<a id="51">[51]</a> Correlation (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Correlation
+
+<a id="52">[52]</a> Chen, J. (no date) Line of best fit: Definition, how it works, and calculation, Investopedia. Available at: https://www.investopedia.com/terms/l/line-of-best-fit.asp#:~:text=A%20line%20of%20best%20fit,plot%20of%20different%20data%20points. (Accessed: 30 April 2024). 
+
+<a id="53">[53]</a> Numpy.linspace# (no date) numpy.linspace - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.linspace.html (Accessed: 30 April 2024). 
