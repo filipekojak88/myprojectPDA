@@ -194,4 +194,10 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 
 <a id="61">[61]</a> Numpy.corrcoef# (no date) numpy.corrcoef - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html (Accessed: 30 April 2024). 
 
-<a id="62">[62]</a> Frost, J. (2024) Interpreting correlation coefficients, Statistics By Jim. Available at: https://statisticsbyjim.com/basics/correlations/ (Accessed: 30 April 2024).
+<a id="62">[62]</a> Frost, J. (2024) Interpreting correlation coefficients, Statistics By Jim. Available at: https://statisticsbyjim.com/basics/correlations/
+
+<a id="63">[63]</a> Baruah, I.D. (2023) Dimensionality reduction techniques - PCA, LCA and SVD, Medium. Available at: https://medium.com/nerd-for-tech/dimensionality-reduction-techniques-pca-lca-and-svd-f2a56b097f7c
+
+<a id="64">[64]</a> Sinha, A. (2023) Uncovering hidden patterns: Advanced clustering and segmentation methods in Data Science, Express Computer. Available at: https://www.expresscomputer.in/big-data-analytics/uncovering-hidden-patterns-advanced-clustering-and-segmentation-methods-in-data-science-wissen-tech/103821/#:~:text=Clustering%20Accelerates%20Hidden%20Pattern%20Matching&text=Using%20sophisticated%20algorithms%20and%20techniques,data%20insights%20of%20the%20same.
+
+<a id="65">[65]</a>  Ray, S. (2024) 7 regression techniques you should know!, Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
