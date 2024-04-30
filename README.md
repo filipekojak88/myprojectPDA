@@ -167,3 +167,9 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 <a id="47">[47]</a> Renee, T. (2022) How to demarc the mean and median in a histplot in both python and R, Medium. Available at: https://medium.com/geekculture/how-to-demarc-the-mean-and-median-in-a-histplot-in-both-python-and-r-86a60c437e67 (Accessed: 30 April 2024). 
 
 <a id="48">[48]</a> Legend guide# (no date) Legend guide - Matplotlib 3.8.4 documentation. Available at: https://matplotlib.org/stable/users/explain/axes/legend_guide.html (Accessed: 30 April 2024).
+
+<a id="49">[49]</a> Correlation (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Correlation
+
+<a id="50">[50]</a> Chen, J. (no date) Line of best fit: Definition, how it works, and calculation, Investopedia. Available at: https://www.investopedia.com/terms/l/line-of-best-fit.asp#:~:text=A%20line%20of%20best%20fit,plot%20of%20different%20data%20points. (Accessed: 30 April 2024). 
+
+<a id="51">[51]</a> Numpy.linspace# (no date) numpy.linspace - NumPy v1.26 Manual. Available at: https://numpy.org/doc/stable/reference/generated/numpy.linspace.html (Accessed: 30 April 2024). 
