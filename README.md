@@ -60,9 +60,9 @@ I have also provided the list of references used in this project at the end of b
 ## Contribute
 
 I used [openincolab.com](https://openincolab.com) to generate the following clickable link.      
-It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
+It opens the [penguins.ipynb](penguins.ipynb) notebook in [Google Colab](https://colab.research.google.com)
 
-<a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/filipekojak88/myprojectPDA/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -81,7 +81,7 @@ If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](
 
 <a id="4">[4]</a> Gorman, et al. (2014) Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis). PLOS ONE 9(3): e90081. https://doi.org/10.1371/journal.pone.0090081
 
-<a id="5">[A]</a> Palmer Penguins (2021) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/690/palmer+penguins-3
+<a id="5">[5]</a> Palmer Penguins (2021) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/690/palmer+penguins-3
 
 <a id="6">[6]</a> Google Maps (2024) Palmer Station, Antarctica, Type of Map: Terrain, Scale: 500km. Available at: https://www.google.com/maps/place/Palmer+Station,+Antarctica/@-60.0342296,-67.7558616,3.36z/data=!4m6!3m5!1s0xbc7f6b08d86317c9:0xe343fed7cb6c11e3!8m2!3d-64.7744286!4d-64.053186!16s%2Fg%2F11l2p50kmk?entry=ttu. 
 
