@@ -1,7 +1,7 @@
-# myprojectPDA      
+# Repository: myprojectPDA      
 
 This repository contains a project completed for the module of Principles of Data Analytics in ATU with the lecturer Ian McLoughlin.    
-Througout this project there were several Python scripts that were used in Jupyter notebook to highlight the different skills acquired during the course.   
+Throughout this project there were several Python scripts that were used in the penguins.ipynb's Jupyter notebook to highlight the different skills acquired during the course. The main goal of this project is to practice the learned skills and develop new ones as the project is threaded to form a coherent and consice analysis of the penguins dataset.
 This README has been written with [Github's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind [[1]](#1).     
 MarkDown was used in this README file and was based on [in GitHub's Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [[2]](#2).       
 
@@ -43,13 +43,14 @@ Nonetheless, this project reflects the author's understanding and knowledge from
 To get started with this project click on this link '[penguins.ipynb](penguins.ipynb)' and navigate through the different sections of this Jupyter from the beginning to the end. But, if you prefer to go to a specific section, then here you can get a quick overview of what is covered:     
 - <ins>Loading the Database</ins>: This section displays the different imported Python modules used in the analysis of the penguins dataset and the script used to load the data set from the Seaborn repository in GitHub.        
 - <ins>Exploring the Dataset</ins>: A quick look into the datase to understand the columns and some of the first and last rows of the dataset.
-- <ins>Types of Variables to Model the Data Set</ins>: Here the author checks the types of variables used in the dataset and what type can be used to model it.
+- <ins>Types of Variables to Model the Dataset</ins>: Here the author checks the types of variables used in the dataset and what type can be used to model it.
 - <ins>Categorical Data and Bar Chart</ins>: An analysis is provided into one of the categorical variables and the different categories available within that variable, using a bar chart to ilustrate that.
 - <ins>Continuous Numerical Data and Histogram</ins>: A summary statistic is perfomed to all continuous numerical variables of the dataset and a deep dive is completed into one of the variables, ending with a histrogram and more details of this analysis.
-- <ins>Correlation between Penguins' bill length and flipper length</ins>: In this section, the author explores how two continuous variables of the dataset correlates to each other. A scatterplot is used and concepts as best fit line and correlation coeficient are applied to support this analysis.
-- <ins>Conclusion</ins>: A summary and results of the author's analysis and investigation carried out on the Palmer Penguins dataset. 
+- <ins>Correlation between Two Variables from the Dataset</ins>: In this section, the author explores how two continuous variables of the dataset correlates to each other. A scatterplot is used and concepts as best fit line and correlation coeficient are applied to support this analysis.
 - <ins>Opportunities for further investigation</ins>: Here, the author suggests other areas that users can approach to further analyse the dataset.
-- <ins>References</ins>: Full list of references, so you can refer to for more info.
+- <ins>Conclusion</ins>: A summary and results of the author's analysis and investigation carried out on the Palmer Penguins dataset. 
+
+Note: Full list of references is available at the end of this README file and the numbers provided across this README.md and in the penguins.ipynb are a direct links to their respective references in the reference section, so users can refer to for more info.
 
 ## Get Help
 
